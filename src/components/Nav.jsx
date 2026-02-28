@@ -1,8 +1,10 @@
+import logo from '../assets/logo.png'
+
 export default function Nav() {
   return (
     <nav>
       <div className="nav-logo">
-        <img src="/logo.png" alt="Opaca logo" height={64} />
+        <img src={logo} alt="Opaca logo" height={64} />
         <span className="nav-wordmark">Opaca</span>
       </div>
       <ul className="nav-links">
