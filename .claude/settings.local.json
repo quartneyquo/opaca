@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebSearch",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebFetch(domain:en.m.wikipedia.org)",
+      "WebFetch(domain:upload.wikimedia.org)",
+      "WebFetch(domain:pixabay.com)",
+      "WebFetch(domain:www.pexels.com)",
+      "WebFetch(domain:commonswiki.toolforge.org)",
+      "WebFetch(domain:tools.wmflabs.org)"
+    ]
+  }
+}
